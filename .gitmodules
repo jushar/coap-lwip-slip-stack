@@ -1,0 +1,6 @@
+[submodule "3rd_party/lwip"]
+	path = 3rd_party/lwip
+	url = https://github.com/lwip-tcpip/lwip.git
+[submodule "3rd_party/libcoap"]
+	path = 3rd_party/libcoap
+	url = https://github.com/obgm/libcoap.git
